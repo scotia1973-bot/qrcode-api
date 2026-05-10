@@ -1,0 +1,20 @@
+{
+  "name": "qrcode-api",
+  "version": "1.0.0",
+  "description": "Free, open-source QR Code generation API for Cloudflare Workers",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "publish": "wrangler publish"
+  },
+  "keywords": [
+    "qr-code",
+    "qrcode",
+    "qr-code-generator",
+    "cloudflare-workers",
+    "serverless",
+    "api"
+  ],
+  "license": "MIT"
+}
