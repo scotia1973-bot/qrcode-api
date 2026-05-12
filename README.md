@@ -6,6 +6,8 @@
 
 **Base URL:** `https://api.gadgethumans.com/`
 
+📡 Part of the [API Hub](https://github.com/scotia1973-bot/api-hub) — a collection of free, no-signup APIs.
+
 ## Features
 
 - **Multiple formats:** PNG, SVG, and GIF output
